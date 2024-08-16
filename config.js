@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'ILIAS',
 			icon: 'graduation-cap',
-			link: 'https://www.ili.fh-aachen.de/,
+			link: 'https://www.ili.fh-aachen.de/',
 		},
 		{
 			id: '5',
