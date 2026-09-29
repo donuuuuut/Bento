@@ -12,12 +12,12 @@ const CONFIG = {
 
 	// General
 	name: 'Lars',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!,',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Go to Sleep!',
@@ -53,7 +53,7 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'RocketChat',
+			name: 'Element',
 			icon: 'message-square-more',
 			link: 'https://element.fz-juelich.de/',
 		},
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Odysee',
-			icon: 'youtube',
+			icon: 'tv-minimal-play',
 			link: 'https://youtube.com/',
 		},
 	],
