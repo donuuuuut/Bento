@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'RocketChat',
 			icon: 'message-square-more',
-			link: 'https://chat.fz-juelich.de/',
+			link: 'https://element.fz-juelich.de/',
 		},
 		{
 			id: '2',
