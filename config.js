@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'gitlab',
+			icon: 'git-branch',
 			id: '1',
 			links: [
 				{
